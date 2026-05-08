@@ -1,0 +1,34 @@
+title: NextAI — Pháp lý & Chính sách
+description: >-
+  Privacy Policy, Terms of Service và các tài liệu pháp lý cho các app
+  của NextAI (HKD Pro, …).
+url: https://phulamhong.github.io
+baseurl: /legal
+theme: jekyll-theme-cayman
+
+# Enable in-page links via [Title](privacy.md) → /privacy
+permalink: /:path/:basename
+
+# Show last-updated date on each page
+show_downloads: false
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+
+# Sass + plugins (built-in to GitHub Pages)
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+
+# Files to include / exclude
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
