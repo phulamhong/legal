@@ -15,8 +15,7 @@ title: Chính sách bảo mật — HKD Pro
 
 - **Đơn vị xử lý dữ liệu (Bên Kiểm soát Dữ liệu)**: NextAI — đại diện bởi Lâm Hồng Phú
 - **Người bảo vệ dữ liệu (DPO)**: Lâm Hồng Phú
-- **Email người bảo vệ dữ liệu**: phulamhong@gmail.com
-- **Email pháp lý**: legal@nextai.io
+- **Email liên hệ**: nextai.vn@gmail.com (mọi câu hỏi pháp lý, DPO, khiếu nại, hỗ trợ)
 
 ---
 
@@ -115,19 +114,19 @@ Bạn có thể xem toàn bộ dữ liệu của mình trong ứng dụng:
 - Cài đặt hộ kinh doanh: Hồ sơ HKD
 
 ### 6.4. Quyền chỉnh sửa
-Mọi dữ liệu trong ứng dụng đều có nút **Sửa** ngay trên màn hình tương ứng. Trường hợp đặc biệt (ví dụ email tài khoản) xin liên hệ legal@nextai.io.
+Mọi dữ liệu trong ứng dụng đều có nút **Sửa** ngay trên màn hình tương ứng. Trường hợp đặc biệt (ví dụ email tài khoản) xin liên hệ nextai.vn@gmail.com.
 
 ### 6.5. Quyền xóa dữ liệu (quyền được lãng quên)
 Xem chi tiết: [Yêu cầu xóa dữ liệu](data-deletion)
 
 ### 6.6. Quyền hạn chế xử lý
-Bạn có thể yêu cầu chúng tôi tạm dừng xử lý dữ liệu (ví dụ trong khi đang điều tra khiếu nại) qua email legal@nextai.io.
+Bạn có thể yêu cầu chúng tôi tạm dừng xử lý dữ liệu (ví dụ trong khi đang điều tra khiếu nại) qua email nextai.vn@gmail.com.
 
 ### 6.7. Quyền chuyển giao dữ liệu
 Toàn bộ dữ liệu nghiệp vụ có thể xuất ra Excel / PDF qua menu **Xuất Excel** trong ứng dụng (định dạng chuẩn, có thể nhập vào MISA / Fast / phần mềm khác).
 
 ### 6.8. Quyền phản đối + khiếu nại
-- Liên hệ legal@nextai.io trong vòng 30 ngày
+- Liên hệ nextai.vn@gmail.com trong vòng 30 ngày
 - Nếu không hài lòng với phản hồi, có thể khiếu nại lên **Cục An toàn thông tin (Bộ Thông tin và Truyền thông)** hoặc các cơ quan có thẩm quyền theo Nghị định 13/2023.
 
 ---
@@ -199,10 +198,10 @@ Mọi tranh chấp được giải quyết tại **Tòa án có thẩm quyền t
 
 | Mục đích | Email | Phản hồi trong |
 |---|---|---|
-| Câu hỏi về quyền riêng tư / Người bảo vệ dữ liệu | phulamhong@gmail.com | 7 ngày làm việc |
-| Yêu cầu xóa dữ liệu | legal@nextai.io ([biểu mẫu](data-deletion)) | 30 ngày (theo Nghị định 13/2023) |
-| Khiếu nại pháp lý | legal@nextai.io | 30 ngày |
-| Hỗ trợ kỹ thuật | support@nextai.io | 1-2 ngày làm việc |
+| Câu hỏi về quyền riêng tư / Người bảo vệ dữ liệu | nextai.vn@gmail.com | 7 ngày làm việc |
+| Yêu cầu xóa dữ liệu | nextai.vn@gmail.com ([biểu mẫu](data-deletion)) | 30 ngày (theo Nghị định 13/2023) |
+| Khiếu nại pháp lý | nextai.vn@gmail.com | 30 ngày |
+| Hỗ trợ kỹ thuật | nextai.vn@gmail.com | 1-2 ngày làm việc |
 
 ---
 

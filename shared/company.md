@@ -4,16 +4,16 @@ title: Về NextAI
 
 # Về NextAI
 
-NextAI là đơn vị phát triển ứng dụng tập trung vào **AI ứng dụng cho doanh nghiệp nhỏ Việt Nam** — bắt đầu từ HKD Pro (quản lý hộ kinh doanh + kế toán) và sẽ mở rộng sang các sản phẩm khác.
+NextAI là công ty IT tập trung phát triển ứng dụng AI giải quyết các vấn đề cho người Việt: pháp lý + kế toán cho doanh nghiệp nhỏ Việt Nam — những vấn đề mà các giải pháp quốc tế không cover được vì không hiểu luật Việt Nam.
+
+**Triết lý:** mỗi app tập trung 1 lĩnh vực, làm sâu, đúng luật, dễ dùng. Cập nhật khi luật thay đổi — minh bạch lịch sử thay đổi qua GitHub.
 
 ---
 
 ## Thông tin liên hệ
 
-- **Email pháp lý**: legal@nextai.io
-- **Email hỗ trợ**: support@nextai.io
+- **Email**: nextai.vn@gmail.com
 - **Người đại diện**: Lâm Hồng Phú
-- **Email cá nhân**: phulamhong@gmail.com
 - **GitHub**: [github.com/phulamhong](https://github.com/phulamhong)
 
 ---

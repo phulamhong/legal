@@ -85,7 +85,7 @@ Hiện tại NextAI cung cấp 8 gói (Miễn phí + 7 gói trả phí). Giá ch
 - Chuyển khoản trực tiếp (sau đó nhận mã kích hoạt qua email/Zalo)
 
 ### 4.3. Hoá đơn
-NextAI cung cấp hóa đơn điện tử khi người dùng yêu cầu — gửi yêu cầu kèm mã số thuế tới legal@nextai.io.
+NextAI cung cấp hóa đơn điện tử khi người dùng yêu cầu — gửi yêu cầu kèm mã số thuế tới nextai.vn@gmail.com.
 
 ### 4.4. Hoàn tiền
 - ✅ **7 ngày đầu** sau thanh toán: hoàn 100% nếu chưa kích hoạt mã
@@ -93,7 +93,7 @@ NextAI cung cấp hóa đơn điện tử khi người dùng yêu cầu — gử
 - ❌ Không hoàn nếu người dùng vi phạm điều khoản (ví dụ dùng mã giả, lạm dụng AI)
 - ❌ Gói Thành viên Sáng lập: không hoàn (vì là gói vĩnh viễn, giá ưu đãi)
 
-Yêu cầu hoàn tiền: gửi email `legal@nextai.io` kèm mã đơn / mã kích hoạt, NextAI phản hồi trong vòng 7 ngày.
+Yêu cầu hoàn tiền: gửi email `nextai.vn@gmail.com` kèm mã đơn / mã kích hoạt, NextAI phản hồi trong vòng 7 ngày.
 
 ### 4.5. Hết hạn gói đăng ký
 - Sau ngày hết hạn: ứng dụng vào **thời gian gia hạn 7 ngày** — vẫn dùng được tính năng trả phí
@@ -211,7 +211,7 @@ NextAI có quyền **buộc người dùng cập nhật ứng dụng** trong cá
 - **Cơ quan giải quyết tranh chấp**: Tòa án có thẩm quyền tại TP.HCM
 - **Ngôn ngữ**: Tiếng Việt là ngôn ngữ pháp lý chính. Bản dịch (nếu có) chỉ mang tính tham khảo.
 
-Trước khi kiện tụng, người dùng và NextAI cam kết **thương lượng thiện chí trong 30 ngày** qua email legal@nextai.io.
+Trước khi kiện tụng, người dùng và NextAI cam kết **thương lượng thiện chí trong 30 ngày** qua email nextai.vn@gmail.com.
 
 ---
 
@@ -228,10 +228,10 @@ NextAI có quyền cập nhật điều khoản này. Khi có thay đổi:
 
 | Mục đích | Email |
 |---|---|
-| Câu hỏi điều khoản | legal@nextai.io |
-| Hoá đơn / hoàn tiền | legal@nextai.io |
-| Hỗ trợ kỹ thuật | support@nextai.io |
-| Báo lỗi / phản hồi | support@nextai.io |
+| Câu hỏi điều khoản | nextai.vn@gmail.com |
+| Hoá đơn / hoàn tiền | nextai.vn@gmail.com |
+| Hỗ trợ kỹ thuật | nextai.vn@gmail.com |
+| Báo lỗi / phản hồi | nextai.vn@gmail.com |
 
 ---
 

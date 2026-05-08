@@ -21,8 +21,7 @@ Quản lý hộ kinh doanh & kê khai thuế Việt Nam (TT 152/2025/TT-BTC).
 
 ## Liên hệ
 
-- **Email pháp lý**: legal@nextai.io
-- **Email hỗ trợ**: support@nextai.io
+- **Email**: nextai.vn@gmail.com
 - **Người chịu trách nhiệm xử lý dữ liệu (DPO)**: Lâm Hồng Phú
 
 [Thông tin về NextAI →](/legal/shared/company)
