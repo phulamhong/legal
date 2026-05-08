@@ -1,12 +1,20 @@
 title: NextAI — Pháp lý & Chính sách
 description: >-
-  Privacy Policy, Terms of Service và các tài liệu pháp lý cho các app
-  của NextAI (HKD Pro, …).
+  Chính sách bảo mật, Điều khoản sử dụng và các tài liệu pháp lý cho các
+  ứng dụng của NextAI (HKD Pro, …).
 url: https://phulamhong.github.io
 baseurl: /legal
 theme: jekyll-theme-cayman
 
-# Enable in-page links via [Title](privacy.md) → /privacy
+# Markdown engine — kramdown with GitHub Flavored Markdown so | tables |
+# render correctly (default kramdown does NOT parse GFM tables).
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Pretty URL: apps/hkd-pro/privacy.md → /apps/hkd-pro/privacy
 permalink: /:path/:basename
 
 # Show last-updated date on each page
