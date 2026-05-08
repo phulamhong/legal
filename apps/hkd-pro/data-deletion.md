@@ -61,6 +61,7 @@ Nếu bạn quên email tài khoản:
 ## 3. Loại dữ liệu sẽ được xóa
 
 ### 3.1. Xóa toàn bộ
+
 | Loại | Hành động |
 |---|---|
 | Tài khoản (auth.users) | Xóa khỏi Supabase Auth |

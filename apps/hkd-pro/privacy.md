@@ -23,6 +23,7 @@ title: Chính sách bảo mật — HKD Pro
 ## 2. Dữ liệu cá nhân được thu thập
 
 ### 2.1. Khi đăng ký tài khoản
+
 | Loại dữ liệu | Mục đích | Bắt buộc? |
 |---|---|---|
 | Email | Định danh tài khoản, gửi email xác nhận / khôi phục | Bắt buộc khi đăng ký tài khoản chính thức |
@@ -30,6 +31,7 @@ title: Chính sách bảo mật — HKD Pro
 | Tên hiển thị | Cá nhân hóa giao diện | Tùy chọn |
 
 ### 2.2. Khi sử dụng ứng dụng
+
 | Loại dữ liệu | Mục đích | Cơ sở pháp lý |
 |---|---|---|
 | Thông tin hộ kinh doanh (tên, MST, địa chỉ, ngành nghề, chủ hộ) | Tính thuế đúng theo TT 152/2025 | Thực hiện hợp đồng dịch vụ |
