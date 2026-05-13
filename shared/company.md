@@ -12,9 +12,10 @@ NextAI là công ty IT tập trung phát triển ứng dụng AI giải quyết 
 
 ## Thông tin liên hệ
 
-- **Email**: nextai.vn@gmail.com
+- **Email**: phu.lam@nextaivn.com
+- **Địa chỉ**: 54 Thới An 13, phường Thới An, TP.HCM
 - **Người đại diện**: Lâm Hồng Phú
-- **GitHub**: [github.com/phulamhong](https://github.com/phulamhong)
+- **Website**: [nextaivn.com](https://nextaivn.com)
 
 ---
 
@@ -25,4 +26,4 @@ NextAI là công ty IT tập trung phát triển ứng dụng AI giải quyết 
 
 ---
 
-← [Quay lại trang Pháp lý NextAI](/legal/)
+← [Quay lại trang Pháp lý NextAI](/)

@@ -2,7 +2,7 @@
 
 Kho lưu trữ tập trung **Chính sách bảo mật**, **Điều khoản sử dụng** và các tài liệu pháp lý cho mọi sản phẩm của NextAI.
 
-🌐 **Trang web đang hoạt động**: https://phulamhong.github.io/legal/
+🌐 **Trang web đang hoạt động**: https://nextaivn.com/
 
 ## Cấu trúc
 

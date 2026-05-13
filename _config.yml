@@ -2,8 +2,8 @@ title: NextAI — Pháp lý & Chính sách
 description: >-
   Chính sách bảo mật, Điều khoản sử dụng và các tài liệu pháp lý cho các
   ứng dụng của NextAI (HKD Pro, …).
-url: https://phulamhong.github.io
-baseurl: /legal
+url: https://nextaivn.com
+baseurl: ""
 theme: jekyll-theme-cayman
 
 # Markdown engine — kramdown with GitHub Flavored Markdown so | tables |

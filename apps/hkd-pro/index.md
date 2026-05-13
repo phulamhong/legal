@@ -17,7 +17,8 @@ title: HKD Pro — Pháp lý
 
 ## Liên hệ HKD Pro
 
-- **Email**: nextai.vn@gmail.com (mọi câu hỏi: hỗ trợ kỹ thuật, pháp lý, khiếu nại, DPO)
+- **Email**: phu.lam@nextaivn.com (mọi câu hỏi: hỗ trợ kỹ thuật, pháp lý, khiếu nại, DPO)
+- **Địa chỉ**: 54 Thới An 13, phường Thới An, TP.HCM
 - **Người bảo vệ dữ liệu (DPO)**: Lâm Hồng Phú
 
-← [Quay lại trang Pháp lý NextAI](/legal/)
+← [Quay lại trang Pháp lý NextAI](/)

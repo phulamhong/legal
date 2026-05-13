@@ -8,20 +8,21 @@ Trang tập trung **Chính sách bảo mật**, **Điều khoản sử dụng** 
 
 ## Sản phẩm
 
-### 📊 [HKD Pro](/legal/apps/hkd-pro/)
+### 📊 [HKD Pro](/apps/hkd-pro/)
 
 Quản lý hộ kinh doanh & kê khai thuế Việt Nam (TT 152/2025/TT-BTC).
 
-- [Chính sách bảo mật](/legal/apps/hkd-pro/privacy)
-- [Điều khoản sử dụng](/legal/apps/hkd-pro/terms)
-- [Công bố sử dụng AI (Gemini Vision)](/legal/apps/hkd-pro/ai-disclosure)
-- [Yêu cầu xóa dữ liệu](/legal/apps/hkd-pro/data-deletion)
+- [Chính sách bảo mật](/apps/hkd-pro/privacy)
+- [Điều khoản sử dụng](/apps/hkd-pro/terms)
+- [Công bố sử dụng AI (Gemini Vision)](/apps/hkd-pro/ai-disclosure)
+- [Yêu cầu xóa dữ liệu](/apps/hkd-pro/data-deletion)
 
 ---
 
 ## Liên hệ
 
-- **Email**: nextai.vn@gmail.com
+- **Email**: phu.lam@nextaivn.com
+- **Địa chỉ**: 54 Thới An 13, phường Thới An, TP.HCM
 - **Người chịu trách nhiệm xử lý dữ liệu (DPO)**: Lâm Hồng Phú
 
-[Thông tin về NextAI →](/legal/shared/company)
+[Thông tin về NextAI →](/shared/company)

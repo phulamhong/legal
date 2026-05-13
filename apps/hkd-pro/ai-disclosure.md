@@ -128,7 +128,7 @@ Mặc dù HKD Pro hướng đến thị trường Việt Nam, ứng dụng có t
 | Quyền được biết AI đang được sử dụng | ✅ Trang này + thông báo trong ứng dụng |
 | Quyền từ chối sử dụng AI | ✅ Có thể tắt AI và nhập tay |
 | Quyền được con người xem xét | ✅ Người dùng luôn kiểm tra trước khi lưu |
-| Quyền được giải thích | ✅ Có thể yêu cầu giải thích qua nextai.vn@gmail.com |
+| Quyền được giải thích | ✅ Có thể yêu cầu giải thích qua phu.lam@nextaivn.com |
 
 HKD Pro không thuộc danh mục "hệ thống AI có rủi ro cao" (không quyết định việc làm, tín dụng, y tế).
 
@@ -136,8 +136,8 @@ HKD Pro không thuộc danh mục "hệ thống AI có rủi ro cao" (không quy
 
 ## 7. Liên hệ
 
-Câu hỏi về AI: **nextai.vn@gmail.com**
+Câu hỏi về AI: **phu.lam@nextaivn.com**
 
 ---
 
-← [Quay lại trang Pháp lý HKD Pro](/legal/apps/hkd-pro/)
+← [Quay lại trang Pháp lý HKD Pro](/apps/hkd-pro/)

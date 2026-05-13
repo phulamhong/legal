@@ -15,7 +15,7 @@ title: Chính sách bảo mật — HKD Pro
 
 - **Đơn vị xử lý dữ liệu (Bên Kiểm soát Dữ liệu)**: NextAI — đại diện bởi Lâm Hồng Phú
 - **Người bảo vệ dữ liệu (DPO)**: Lâm Hồng Phú
-- **Email liên hệ**: nextai.vn@gmail.com (mọi câu hỏi pháp lý, DPO, khiếu nại, hỗ trợ)
+- **Email liên hệ**: phu.lam@nextaivn.com (mọi câu hỏi pháp lý, DPO, khiếu nại, hỗ trợ)
 
 ---
 
@@ -114,19 +114,19 @@ Bạn có thể xem toàn bộ dữ liệu của mình trong ứng dụng:
 - Cài đặt hộ kinh doanh: Hồ sơ HKD
 
 ### 6.4. Quyền chỉnh sửa
-Mọi dữ liệu trong ứng dụng đều có nút **Sửa** ngay trên màn hình tương ứng. Trường hợp đặc biệt (ví dụ email tài khoản) xin liên hệ nextai.vn@gmail.com.
+Mọi dữ liệu trong ứng dụng đều có nút **Sửa** ngay trên màn hình tương ứng. Trường hợp đặc biệt (ví dụ email tài khoản) xin liên hệ phu.lam@nextaivn.com.
 
 ### 6.5. Quyền xóa dữ liệu (quyền được lãng quên)
 Xem chi tiết: [Yêu cầu xóa dữ liệu](data-deletion)
 
 ### 6.6. Quyền hạn chế xử lý
-Bạn có thể yêu cầu chúng tôi tạm dừng xử lý dữ liệu (ví dụ trong khi đang điều tra khiếu nại) qua email nextai.vn@gmail.com.
+Bạn có thể yêu cầu chúng tôi tạm dừng xử lý dữ liệu (ví dụ trong khi đang điều tra khiếu nại) qua email phu.lam@nextaivn.com.
 
 ### 6.7. Quyền chuyển giao dữ liệu
 Toàn bộ dữ liệu nghiệp vụ có thể xuất ra Excel / PDF qua menu **Xuất Excel** trong ứng dụng (định dạng chuẩn, có thể nhập vào MISA / Fast / phần mềm khác).
 
 ### 6.8. Quyền phản đối + khiếu nại
-- Liên hệ nextai.vn@gmail.com trong vòng 30 ngày
+- Liên hệ phu.lam@nextaivn.com trong vòng 30 ngày
 - Nếu không hài lòng với phản hồi, có thể khiếu nại lên **Cục An toàn thông tin (Bộ Thông tin và Truyền thông)** hoặc các cơ quan có thẩm quyền theo Nghị định 13/2023.
 
 ---
@@ -165,7 +165,7 @@ HKD Pro là ứng dụng dành cho **chủ hộ kinh doanh** — không thiết 
 
 ## 9. Cookie & theo dõi
 
-Ứng dụng **không sử dụng cookie** (vì là ứng dụng gốc, không phải web). Trang Chính sách bảo mật này (trên GitHub Pages) có thể có cookie kỹ thuật của GitHub — không theo dõi mục đích thương mại.
+Ứng dụng **không sử dụng cookie** (vì là ứng dụng gốc, không phải web). Trang Chính sách bảo mật này (trên nextaivn.com) không sử dụng cookie theo dõi thương mại.
 
 ---
 
@@ -198,11 +198,13 @@ Mọi tranh chấp được giải quyết tại **Tòa án có thẩm quyền t
 
 | Mục đích | Email | Phản hồi trong |
 |---|---|---|
-| Câu hỏi về quyền riêng tư / Người bảo vệ dữ liệu | nextai.vn@gmail.com | 7 ngày làm việc |
-| Yêu cầu xóa dữ liệu | nextai.vn@gmail.com ([biểu mẫu](data-deletion)) | 30 ngày (theo Nghị định 13/2023) |
-| Khiếu nại pháp lý | nextai.vn@gmail.com | 30 ngày |
-| Hỗ trợ kỹ thuật | nextai.vn@gmail.com | 1-2 ngày làm việc |
+| Câu hỏi về quyền riêng tư / Người bảo vệ dữ liệu | phu.lam@nextaivn.com | 7 ngày làm việc |
+| Yêu cầu xóa dữ liệu | phu.lam@nextaivn.com ([biểu mẫu](data-deletion)) | 30 ngày (theo Nghị định 13/2023) |
+| Khiếu nại pháp lý | phu.lam@nextaivn.com | 30 ngày |
+| Hỗ trợ kỹ thuật | phu.lam@nextaivn.com | 1-2 ngày làm việc |
+
+**Địa chỉ**: 54 Thới An 13, phường Thới An, TP.HCM
 
 ---
 
-← [Quay lại trang Pháp lý HKD Pro](/legal/apps/hkd-pro/)
+← [Quay lại trang Pháp lý HKD Pro](/apps/hkd-pro/)
