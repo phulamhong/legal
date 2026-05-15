@@ -25,4 +25,4 @@ Quản lý hộ kinh doanh & kê khai thuế Việt Nam (TT 152/2025/TT-BTC).
 - **Địa chỉ**: 54 Thới An 13, phường Thới An, TP.HCM
 - **Người chịu trách nhiệm xử lý dữ liệu (DPO)**: Lâm Hồng Phú
 
-[Thông tin về NextAI →](/shared/company)
+[Thông tin về NextAI →](https://nextaivn.com)
